@@ -41,7 +41,6 @@ for p_truth_value in range(0,2):
 # calculating tautology or fallacy or contradiction
 for i in u_truth_values:
     answer*=i
-    print(i)
 
 # printing answer based on truth table
 print(u)
